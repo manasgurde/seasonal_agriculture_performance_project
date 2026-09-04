@@ -3,7 +3,7 @@
 Major Project for VOIS AICTE
 
 ## Description
-This project analyzes agricultural performance data across different seasons (Kharif, Rabi, and Zaid). It covers data exploration, cleaning, seasonal comparisons (yield, production, profit, resource usage), statistical testing, and data-driven recommendations.
+This project analyzes agricultural performance data across different seasons (Kharif, Rabi, and Zaid). It covers data exploration, cleaning, seasonal comparisons (yield, production, profit, resource usage), and statistical testing.
 
 ## Requirements
 ```bash
